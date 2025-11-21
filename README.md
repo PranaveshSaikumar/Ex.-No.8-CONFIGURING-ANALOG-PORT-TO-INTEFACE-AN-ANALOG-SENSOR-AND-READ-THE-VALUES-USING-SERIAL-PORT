@@ -317,10 +317,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 ## Output  :
 
-<img width="1643" height="703" alt="image" src="https://github.com/user-attachments/assets/49f7f171-93d4-4b67-9b9f-869a97e7c585" />
+<img width="990" height="755" alt="Screenshot 2025-11-21 140738" src="https://github.com/user-attachments/assets/d846895e-41e7-48e9-923c-aabf8c6d1e0f" />
 
+![WhatsApp Image 2025-11-21 at 2 10 06 PM](https://github.com/user-attachments/assets/9527c3c9-ec91-4ae8-be0d-8f31798195f5)
 
- 
+![WhatsApp Image 2025-11-21 at 2 10 07 PM](https://github.com/user-attachments/assets/4474b25a-78e5-4258-ad94-8892c77c1e50)
+
 
 ## Result :
 Thus, To configure ADC channel for interfacing an analog sensor and read the values on the com port was executed successfully.
